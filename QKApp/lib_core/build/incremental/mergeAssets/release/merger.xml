@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/hermes/Google 雲端硬碟/workspace/MyQK_A/QKApp/lib_core/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/hermes/Google 雲端硬碟/workspace/MyQK_A/QKApp/lib_core/src/release/assets" />
+    </dataSet>
+
+</merger>

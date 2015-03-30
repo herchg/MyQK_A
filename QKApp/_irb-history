@@ -1,0 +1,13 @@
+reinstall_apps
+start_test_server_in_background
+query("textView id:'Item 1'")
+query("textView id:'Item 2'")
+query("textView id:'Item 2'")
+query("textView id:'Item 2'")
+query("textView id:'Item 2'")
+query("TextView id:'Item 2'")
+query("button id:'Item 2'")
+query("Button id:'Item 2'")
+query("Button id:'Item 2'")
+quit
+quit

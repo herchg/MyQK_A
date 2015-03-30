@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/values/attrs_widget_xviewanimator.xml -->
+    <eat-comment />
+
+    <declare-styleable name="XViewAnimator">
+        <attr name="viewInAnimForNext" format="reference" />
+        <attr name="viewOutAnimForNext" format="reference" />
+        <attr name="viewInAnimForPrevious" format="reference" />
+        <attr name="viewOutAnimForPrevious" format="reference" />
+    </declare-styleable>
+    <!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">QKApp</string>
+
+</resources>

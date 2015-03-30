@@ -1,0 +1,16 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false" >
+
+    <translate
+        android:duration="200"
+        android:fromXDelta="100%"
+        android:fromYDelta="0%"
+        android:toXDelta="0%"
+        android:toYDelta="0%" />
+
+    <alpha
+        android:duration="@android:integer/config_mediumAnimTime"
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0" />
+
+</set><!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_in_right.xml --><!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_in_right.xml -->

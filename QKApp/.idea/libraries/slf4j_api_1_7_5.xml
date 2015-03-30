@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/exploded-aar/QKApp/lib_3rd/unspecified/libs/slf4j-api-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

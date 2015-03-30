@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="XViewAnimator">
+        <attr name="viewInAnimForNext" format="reference" />
+        <attr name="viewOutAnimForNext" format="reference" />
+        <attr name="viewInAnimForPrevious" format="reference" />
+        <attr name="viewOutAnimForPrevious" format="reference" />
+    </declare-styleable>
+    <!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">QKApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <!-- From: file:/Users/hermeschang/Google%20Drive/workspace/MyQK_A/QKApp/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

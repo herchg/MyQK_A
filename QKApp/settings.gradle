@@ -1,0 +1,1 @@
+include ':app', ':lib_core', ':lib_widget', ':lib_3rd', ':lib_4test'

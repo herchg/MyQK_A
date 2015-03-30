@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

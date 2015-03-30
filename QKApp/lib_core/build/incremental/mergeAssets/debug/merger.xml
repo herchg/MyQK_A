@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_core/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_core/src/debug/assets" />
+    </dataSet>
+
+</merger>

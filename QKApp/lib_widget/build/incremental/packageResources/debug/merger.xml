@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >QKApp
+                </string>
+            </file>
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/values/attrs_widget_xviewanimator.xml"
+                qualifiers="" >
+                <declare-styleable name="XViewAnimator" >
+                    <attr
+                        name="viewInAnimForNext"
+                        format="reference" />
+                    <attr
+                        name="viewOutAnimForNext"
+                        format="reference" />
+                    <attr
+                        name="viewInAnimForPrevious"
+                        format="reference" />
+                    <attr
+                        name="viewOutAnimForPrevious"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                name="slide_in_left"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_in_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_right"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_in_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_bottom"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_in_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_bottom"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_out_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_left"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_out_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_right"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_out_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_top"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_out_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_top"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/slide_in_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_in"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/main/res/anim/fade_in.xml"
+                qualifiers=""
+                type="anim" />
+        </source>
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/build/res/rs/debug" />
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/lib_widget/src/debug/res" />
+    </dataSet>
+
+</merger>

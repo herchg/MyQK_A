@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_3rd/unspecified/res/values/values.xml"
+                qualifiers="" >
+                <string name="app_name" >QKApp
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res" >
+            <file
+                name="fade_in"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/fade_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_bottom"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_in_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_left"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_in_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_right"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_in_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_in_top"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_in_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_bottom"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_out_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_left"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_out_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_right"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_out_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_out_top"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/anim/slide_out_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_widget/unspecified/res/values/values.xml"
+                qualifiers="" >
+                <string name="app_name" >QKApp
+                </string>
+
+                <declare-styleable name="XViewAnimator" >
+                    <attr
+                        name="viewInAnimForNext"
+                        format="reference" />
+                    <attr
+                        name="viewOutAnimForNext"
+                        format="reference" />
+                    <attr
+                        name="viewInAnimForPrevious"
+                        format="reference" />
+                    <attr
+                        name="viewOutAnimForPrevious"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/exploded-aar/QKApp/lib_core/unspecified/res/values/values.xml"
+                qualifiers="" >
+                <string name="app_name" >QKApp
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_item_detail"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/layout/activity_item_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_item_list"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/layout/activity_item_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_item_twopane"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/layout/activity_item_twopane.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_item_detail"
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/layout/fragment_item_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_item_detail" >Item Detail
+                </string>
+                <string name="app_name" >QKApp
+                </string>
+            </file>
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/values-large/refs.xml"
+                qualifiers="large" >
+                <item
+                    name="activity_item_list"
+                    type="layout">
+@layout/activity_item_twopane
+                </item>
+            </file>
+            <file
+                path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/main/res/values-sw600dp/refs.xml"
+                qualifiers="sw600dp" >
+                <item
+                    name="activity_item_list"
+                    type="layout">
+@layout/activity_item_twopane
+                </item>
+            </file>
+        </source>
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/res/rs/debug" />
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/hermeschang/Google Drive/workspace/MyQK_A/QKApp/app/src/debug/res" />
+    </dataSet>
+
+</merger>

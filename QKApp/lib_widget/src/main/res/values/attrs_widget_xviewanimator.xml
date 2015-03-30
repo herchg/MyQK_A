@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="XViewAnimator">
+	    <attr name="viewInAnimForNext" format="reference"/>
+   	    <attr name="viewOutAnimForNext" format="reference" />
+	    <attr name="viewInAnimForPrevious" format="reference"/>
+   	    <attr name="viewOutAnimForPrevious" format="reference" />
+	</declare-styleable>
+</resources>
